@@ -4,3 +4,8 @@
 <pre><code>
 $ npm i
 </code></pre>
+
+## to start run:
+<pre><code>
+$ npm start -s
+</code></pre>
